@@ -1,0 +1,32 @@
+{
+  "title": "SHAREPOINT\nDEVELOPMENT",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "using Statement",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "URL",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "http://msdn.microsoft.com/en-us/library/yh598w02.aspx",
+              "id": 8
+            }
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "measurements-config": [
+      "using (Font font1 = new Font(\"Arial\", 10.0f))  {     byte charset = font1.GdiCharSet; }"
+    ],
+    "style": {
+      "background": "#22AAE0"
+    }
+  },
+  "links": []
+}
