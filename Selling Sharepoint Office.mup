@@ -1,0 +1,81 @@
+{
+  "title": "Sharepoint Selling Office",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "365 FastTrack",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "1 Pilot",
+          "id": 3,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "2": {
+              "title": "MS Domain",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "First Customers Experience",
+                  "id": 6,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "2 Deploy",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "Shared Namespace",
+              "id": 11
+            },
+            "2": {
+              "title": "AD Syncing",
+              "id": 12,
+              "ideas": {
+                "1": {
+                  "title": "Usernames\nPasswords",
+                  "id": 13
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "3 Enhance",
+          "id": 5,
+          "ideas": {}
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 9,
+      "ideaIdTo": 6,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ],
+  "attr": {
+    "style": {
+      "background": "#ff0000"
+    }
+  }
+}
