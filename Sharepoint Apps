@@ -46,26 +46,71 @@
           }
         },
         "3": {
-          "title": "View-Modes",
-          "id": 6,
+          "title": "View Pictures",
+          "id": 18,
           "ideas": {
             "1": {
-              "title": "Filmstrip",
-              "id": 7
+              "title": "View-Modes",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Filmstrip",
+                  "id": 7
+                },
+                "2": {
+                  "title": "Thumbnails",
+                  "id": 8
+                },
+                "3": {
+                  "title": "Pick-Board",
+                  "id": 9
+                },
+                "4": {
+                  "title": "Fullscreen/Slideshow",
+                  "id": 19
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             },
             "2": {
-              "title": "Thumbnails",
-              "id": 8
+              "title": "Controls",
+              "id": 20
             },
             "3": {
-              "title": "Pick-Board",
-              "id": 9
+              "title": "Filters",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "Tags",
+                  "id": 22
+                },
+                "2": {
+                  "title": "Date",
+                  "id": 23
+                },
+                "3": {
+                  "title": "Folders (multiple)",
+                  "id": 24
+                }
+              }
             }
-          },
-          "attr": {
-            "collapsed": true,
-            "style": {
-              "background": "#E0E0E0"
+          }
+        },
+        "4": {
+          "title": "Add Pictures",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Multiple",
+              "id": 25
+            },
+            "2": {
+              "title": "whole Directories",
+              "id": 26
             }
           }
         }
