@@ -1,0 +1,75 @@
+{
+  "title": "Sharepoint Apps:\nGALLERY",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Features",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Touch/Mobile",
+          "id": 3
+        },
+        "2": {
+          "title": "Styling",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "Thumbnails",
+              "id": 5
+            },
+            "2": {
+              "title": "Background",
+              "id": 10
+            },
+            "3": {
+              "title": "Effects",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "Hover",
+                  "id": 12
+                },
+                "2": {
+                  "title": "Activating/Zoom-In",
+                  "id": 13
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "View-Modes",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Filmstrip",
+              "id": 7
+            },
+            "2": {
+              "title": "Thumbnails",
+              "id": 8
+            },
+            "3": {
+              "title": "Pick-Board",
+              "id": 9
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    }
+  }
+}
