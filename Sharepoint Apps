@@ -16,7 +16,7 @@
           "id": 67,
           "ideas": {
             "1": {
-              "title": "Styling",
+              "title": "Styling (CSS)",
               "id": 4,
               "ideas": {
                 "1": {
@@ -89,6 +89,26 @@
               "title": "Animations",
               "id": 73
             },
+            "3": {
+              "title": "Slideshow",
+              "id": 74,
+              "ideas": {
+                "1": {
+                  "title": "Timeout",
+                  "id": 76
+                },
+                "2": {
+                  "title": "Loop",
+                  "id": 77
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
             "0.5": {
               "title": "Range",
               "id": 70,
@@ -101,7 +121,19 @@
                   "title": "Inherit/Overwrite",
                   "id": 72
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
             }
           }
         },
@@ -211,8 +243,7 @@
                   "attr": {
                     "style": {
                       "background": "#E0E0E0"
-                    },
-                    "collapsed": true
+                    }
                   }
                 },
                 "14": {
@@ -223,7 +254,8 @@
               "attr": {
                 "style": {
                   "background": "#E0E0E0"
-                }
+                },
+                "collapsed": true
               }
             },
             "2": {
@@ -247,8 +279,34 @@
                       "id": 39
                     },
                     "4": {
-                      "title": "Play/Pause Slideshow",
-                      "id": 60
+                      "title": "Slideshow",
+                      "id": 60,
+                      "ideas": {
+                        "1": {
+                          "title": "Play/Pause ",
+                          "id": 78
+                        },
+                        "0.5": {
+                          "title": "Start",
+                          "id": 79,
+                          "ideas": {
+                            "1": {
+                              "title": "Directly",
+                              "id": 80
+                            },
+                            "2": {
+                              "title": "with Settings-Dialog",
+                              "id": 81
+                            }
+                          }
+                        }
+                      },
+                      "attr": {
+                        "collapsed": true,
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
                     },
                     "2.5": {
                       "title": "Home/End",
@@ -258,7 +316,8 @@
                   "attr": {
                     "style": {
                       "background": "#E0E0E0"
-                    }
+                    },
+                    "collapsed": true
                   }
                 },
                 "13": {
@@ -384,5 +443,16 @@
       }
     }
   },
-  "links": []
+  "links": [
+    {
+      "ideaIdFrom": 73,
+      "ideaIdTo": 4,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
 }
