@@ -55,19 +55,89 @@
               "ideas": {
                 "1": {
                   "title": "Filmstrip",
-                  "id": 7
+                  "id": 7,
+                  "ideas": {
+                    "1": {
+                      "title": "Position",
+                      "id": 40,
+                      "ideas": {
+                        "1": {
+                          "title": "Left",
+                          "id": 41
+                        },
+                        "2": {
+                          "title": "Right",
+                          "id": 42
+                        },
+                        "3": {
+                          "title": "Top",
+                          "id": 43
+                        },
+                        "4": {
+                          "title": "Bottom",
+                          "id": 44
+                        }
+                      },
+                      "attr": {
+                        "collapsed": true,
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  }
                 },
                 "2": {
-                  "title": "Thumbnails",
-                  "id": 8
-                },
-                "3": {
-                  "title": "Pick-Board",
-                  "id": 9
+                  "title": "Thumbnails/Pickboard",
+                  "id": 8,
+                  "ideas": {
+                    "1": {
+                      "title": "Fullscreen",
+                      "id": 46
+                    },
+                    "2": {
+                      "title": "Position",
+                      "id": 48,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        },
+                        "collapsed": true
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Left",
+                          "id": 50
+                        },
+                        "2": {
+                          "title": "Right",
+                          "id": 51
+                        },
+                        "3": {
+                          "title": "Top",
+                          "id": 52
+                        },
+                        "4": {
+                          "title": "Bottom",
+                          "id": 53
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
                 },
                 "4": {
                   "title": "Fullscreen/Slideshow",
                   "id": 19
+                },
+                "14": {
+                  "title": "Carousel",
+                  "id": 55
                 }
               },
               "attr": {
@@ -78,7 +148,62 @@
             },
             "2": {
               "title": "Controls",
-              "id": 20
+              "id": 20,
+              "ideas": {
+                "3": {
+                  "title": "Features",
+                  "id": 36,
+                  "ideas": {
+                    "1": {
+                      "title": "Next/Prev",
+                      "id": 37
+                    },
+                    "2": {
+                      "title": "Number",
+                      "id": 38
+                    },
+                    "3": {
+                      "title": "Show/Hide Filmstrip/Navigation",
+                      "id": 39
+                    },
+                    "2.5": {
+                      "title": "Home/End",
+                      "id": 49
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "13": {
+                  "title": "Controller",
+                  "id": 54,
+                  "ideas": {
+                    "1": {
+                      "title": "Mouse",
+                      "id": 34
+                    },
+                    "2": {
+                      "title": "Keyboard",
+                      "id": 35,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
             },
             "3": {
               "title": "Filters",
@@ -96,6 +221,12 @@
                   "title": "Folders (multiple)",
                   "id": 24
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
             }
           }
@@ -106,15 +237,65 @@
           "ideas": {
             "1": {
               "title": "Multiple",
-              "id": 25
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Multicheck",
+                  "id": 27
+                },
+                "2": {
+                  "title": "whole Directories",
+                  "id": 26,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             },
             "2": {
-              "title": "whole Directories",
-              "id": 26
+              "title": "Tags",
+              "id": 28
+            },
+            "3": {
+              "title": "Date",
+              "id": 29,
+              "ideas": {
+                "1": {
+                  "title": "Pick",
+                  "id": 30
+                },
+                "2": {
+                  "title": "Range",
+                  "id": 31
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "4": {
+              "title": "People",
+              "id": 32
+            },
+            "5": {
+              "title": "BUs/Groups",
+              "id": 33
             }
           }
         }
       }
     }
-  }
+  },
+  "links": []
 }
