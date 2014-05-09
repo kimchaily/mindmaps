@@ -12,36 +12,96 @@
           "id": 3
         },
         "2": {
-          "title": "Styling",
-          "id": 4,
+          "title": "Settings",
+          "id": 67,
           "ideas": {
             "1": {
-              "title": "Thumbnails",
-              "id": 5
-            },
-            "2": {
-              "title": "Background",
-              "id": 10
-            },
-            "3": {
-              "title": "Effects",
-              "id": 11,
+              "title": "Styling",
+              "id": 4,
               "ideas": {
                 "1": {
-                  "title": "Hover",
-                  "id": 12
+                  "title": "Thumbnails",
+                  "id": 5,
+                  "ideas": {
+                    "1": {
+                      "title": "Cols",
+                      "id": 62
+                    },
+                    "2": {
+                      "title": "Width",
+                      "id": 63
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
                 },
                 "2": {
-                  "title": "Activating/Zoom-In",
-                  "id": 13
+                  "title": "Background",
+                  "id": 10
+                },
+                "3": {
+                  "title": "Effects",
+                  "id": 11,
+                  "ideas": {
+                    "1": {
+                      "title": "Hover",
+                      "id": 12
+                    },
+                    "2": {
+                      "title": "Activating/Zoom-In",
+                      "id": 13
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Container",
+                  "id": 65,
+                  "ideas": {
+                    "1": {
+                      "title": "Width",
+                      "id": 64
+                    },
+                    "2": {
+                      "title": "Position",
+                      "id": 66
+                    }
+                  },
+                  "attr": {
+                    "collapsed": true,
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                },
+                "collapsed": true
+              }
+            },
+            "2": {
+              "title": "Animations",
+              "id": 73
+            },
+            "0.5": {
+              "title": "Range",
+              "id": 70,
+              "ideas": {
+                "1": {
+                  "title": "General",
+                  "id": 71
+                },
+                "2": {
+                  "title": "Inherit/Overwrite",
+                  "id": 72
                 }
               }
-            }
-          },
-          "attr": {
-            "collapsed": true,
-            "style": {
-              "background": "#E0E0E0"
             }
           }
         },
@@ -133,7 +193,27 @@
                 },
                 "4": {
                   "title": "Fullscreen/Slideshow",
-                  "id": 19
+                  "id": 19,
+                  "ideas": {
+                    "1": {
+                      "title": "Timeout",
+                      "id": 56
+                    },
+                    "2": {
+                      "title": "Loop",
+                      "id": 57
+                    },
+                    "3": {
+                      "title": "Direction",
+                      "id": 58
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    },
+                    "collapsed": true
+                  }
                 },
                 "14": {
                   "title": "Carousel",
@@ -166,13 +246,16 @@
                       "title": "Show/Hide Filmstrip/Navigation",
                       "id": 39
                     },
+                    "4": {
+                      "title": "Play/Pause Slideshow",
+                      "id": 60
+                    },
                     "2.5": {
                       "title": "Home/End",
                       "id": 49
                     }
                   },
                   "attr": {
-                    "collapsed": true,
                     "style": {
                       "background": "#E0E0E0"
                     }
@@ -228,6 +311,10 @@
                   "background": "#E0E0E0"
                 }
               }
+            },
+            "4": {
+              "title": "Sorting",
+              "id": 59
             }
           }
         },
