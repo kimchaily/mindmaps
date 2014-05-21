@@ -118,8 +118,7 @@
               "attr": {
                 "style": {
                   "background": "#E0E0E0"
-                },
-                "collapsed": true
+                }
               }
             },
             "3": {
@@ -416,33 +415,41 @@
                 "collapsed": true
               }
             },
-            "3": {
-              "title": "Filters",
-              "id": 21,
+            "0.5": {
+              "title": "Organization/Fetching",
+              "id": 112,
               "ideas": {
                 "1": {
-                  "title": "Tags",
-                  "id": 22
+                  "title": "Sorting",
+                  "id": 113,
+                  "attr": {
+                    "style": {}
+                  }
                 },
                 "2": {
-                  "title": "Date",
-                  "id": 23
-                },
-                "3": {
-                  "title": "Folders (multiple)",
-                  "id": 24
-                }
-              },
-              "attr": {
-                "collapsed": true,
-                "style": {
-                  "background": "#E0E0E0"
+                  "title": "Filters",
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Tags",
+                      "id": 115
+                    },
+                    "2": {
+                      "title": "Date",
+                      "id": 116
+                    },
+                    "3": {
+                      "title": "Folders (multiple)",
+                      "id": 117
+                    }
+                  },
+                  "id": 114
                 }
               }
-            },
-            "4": {
-              "title": "Sorting",
-              "id": 59
             }
           }
         },
@@ -506,6 +513,32 @@
             "5": {
               "title": "BUs/Groups",
               "id": 33
+            },
+            "6": {
+              "title": "Social Networks",
+              "id": 106,
+              "ideas": {
+                "1": {
+                  "title": "flickr",
+                  "id": 107
+                },
+                "2": {
+                  "title": "yammer",
+                  "id": 109
+                },
+                "3": {
+                  "title": "facebook",
+                  "id": 110
+                },
+                "4": {
+                  "title": "instagram",
+                  "id": 111
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
             }
           }
         }
@@ -532,6 +565,10 @@
             "1": {
               "title": "Pick-board",
               "id": 99
+            },
+            "2": {
+              "title": "Custom CSS File",
+              "id": 105
             }
           }
         },
